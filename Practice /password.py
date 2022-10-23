@@ -1,11 +1,11 @@
 
 password = input('Password: ')
-if password == 'tasos2010':
-    print('welcome tasos')
+if password == 'Murtaza2022':
+    print('welcome Murtaza')
     
 while password != 'password':
     print('Wrong. Try again:')
     password = input('Password: ')
     
 if password == 'password':
-    print('welcome tasos')
+    print('welcome Murtaza')
